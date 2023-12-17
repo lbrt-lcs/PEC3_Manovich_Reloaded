@@ -124,5 +124,5 @@ Desde la perspectiva de **Manovich**, *Procreate* no es solo una herramienta, si
 
 * Hasselblad H6D. Lev Manovich [Imagen]. Medium. [https://miro.medium.com/v2/resize:fit:2400/1*5MApCaZNUDQDPf8GDEmTQA.jpeg]
 * Procreate [Imagen]. Procreate. [https://procreate-assets-cdn.procreate.art/img/home-hero_en.0eb3723.jpg]
-* Kinsta. Figma vs Sketch [Imagen]. Kinsta. [https://kinsta.com/wp-content/uploads/2022/08/Figma-collaboration.png]
+* El Español. Qué es Figma, el servicio de diseño colaborativo por el que Adobe ha pagado 20.000 millones de dólares [Imagen]. El Español. [https://s1.eestatic.com/2022/09/15/actualidad/703440385_227208009_1706x960.jpg]
      
