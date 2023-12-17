@@ -8,6 +8,7 @@ Autor: Alberto Lucas Pérez
 
 Fecha: 17/12/2023
 
+![image](https://github.com/lbrt-lcs/PEC3_Manovich_Reloaded/assets/102356403/f775c097-ea84-47a4-be26-bb12d9b15802)
 
 
 ## Planteamiento
@@ -25,6 +26,8 @@ A través de la escritura abierta en Markdown, compartiremos nuestras reflexione
 
 
 ## Re-descubriendo la hibridación: Procreate
+![image](https://github.com/lbrt-lcs/PEC3_Manovich_Reloaded/assets/102356403/b9a4c6a5-b8ef-474e-bada-b5f041fa3493)
+
 
 ### Introducción
 
@@ -56,6 +59,8 @@ La *hibridación* no solo está presente en la apariencia y la funcionalidad de 
 
 
 ## Re-descubriendo la hibridación: Figma
+
+![image](https://s1.eestatic.com/2022/09/15/actualidad/703440385_227208009_1706x960.jpg)
 
 ### Introducción
 
@@ -115,4 +120,9 @@ Desde la perspectiva de **Manovich**, *Procreate* no es solo una herramienta, si
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+### Imágenes
+
+* Hasselblad H6D. Lev Manovich [Imagen]. Medium. [https://miro.medium.com/v2/resize:fit:2400/1*5MApCaZNUDQDPf8GDEmTQA.jpeg]
+* Procreate [Imagen]. Procreate. [https://procreate-assets-cdn.procreate.art/img/home-hero_en.0eb3723.jpg]
+* Kinsta. Figma vs Sketch [Imagen]. Kinsta. [https://kinsta.com/wp-content/uploads/2022/08/Figma-collaboration.png]
+     
